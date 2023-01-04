@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/WeatherApp/static/css/main.4aef583a.css",
+    "main.js": "/WeatherApp/static/js/main.915921ed.js",
+    "static/js/787.5727570d.chunk.js": "/WeatherApp/static/js/787.5727570d.chunk.js",
+    "static/media/snow.svg": "/WeatherApp/static/media/snow.5cd9d2df6b8a615bb430c05355cb04b8.svg",
+    "static/media/partly-cloudy-night.svg": "/WeatherApp/static/media/partly-cloudy-night.f1726c4a3f3910b9e9babf6aae0697ce.svg",
+    "static/media/partly-cloudy-day.svg": "/WeatherApp/static/media/partly-cloudy-day.fb0c783594fd8102cf86979e051c4864.svg",
+    "static/media/wind.svg": "/WeatherApp/static/media/wind.5a95427cbc9a431f783836e987c26ec1.svg",
+    "static/media/rain.svg": "/WeatherApp/static/media/rain.6e58cc7dcb66f8b2afb551c60774b49a.svg",
+    "static/media/cloudy.svg": "/WeatherApp/static/media/cloudy.57f38995f0f82dd5dc08d5297a8d4717.svg",
+    "static/media/clear-night.svg": "/WeatherApp/static/media/clear-night.17ac83aa4b47967708fa80968c549b2f.svg",
+    "static/media/clear-day.svg": "/WeatherApp/static/media/clear-day.55f155dffdd173d4bbe51b73a7b573c2.svg",
+    "static/media/fog.svg": "/WeatherApp/static/media/fog.5465c93e38463cdf13b37af9e548a5f9.svg",
+    "index.html": "/WeatherApp/index.html",
+    "main.4aef583a.css.map": "/WeatherApp/static/css/main.4aef583a.css.map",
+    "main.915921ed.js.map": "/WeatherApp/static/js/main.915921ed.js.map",
+    "787.5727570d.chunk.js.map": "/WeatherApp/static/js/787.5727570d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aef583a.css",
+    "static/js/main.915921ed.js"
+  ]
+}
