@@ -9,7 +9,7 @@ The project presents a weather application in which we can check the current wea
 
 ## Demo
 
-t0k3m.github.io/WeatherApp/
+https://tomaszsliwakowski.github.io/WeatherApp/
 
 ## Installation
 
